@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PaletteLab/PaletteLab.vcxproj" Id="c47ed870-bb25-4001-ac40-a4cec420a865" />
+</Solution>
